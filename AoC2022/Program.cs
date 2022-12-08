@@ -6,9 +6,9 @@ internal sealed class Program
 {
     private static void Main()
     {
-        var day = new Day01.Day01();
+        var day = new Day02();
 
-        Console.WriteLine(day.PartOne());
-        Console.WriteLine(day.PartTwo());
+        Console.WriteLine($"Part 1: {day.PartOne()}");
+        Console.WriteLine($"Part 2: {day.PartTwo()}");
     }
 }

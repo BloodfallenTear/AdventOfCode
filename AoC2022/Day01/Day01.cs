@@ -2,7 +2,7 @@
 
 using AoC2022.Common;
 
-namespace AoC2022.Day01;
+namespace AoC2022;
 
 internal sealed class Day01 : Day
 {
