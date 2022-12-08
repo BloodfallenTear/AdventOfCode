@@ -1,4 +1,4 @@
-# Advent Of Code
+# Advent Of Code 2022
  
 My [Advent of Code](https://adventofcode.com/) solutions.
 
