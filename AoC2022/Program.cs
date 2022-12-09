@@ -1,12 +1,16 @@
 ﻿using System;
 
+using BenchmarkDotNet.Running;
+
 namespace AoC2022;
 
 internal sealed class Program
 {
     private static void Main()
     {
-        var day = new Day02();
+        //BenchmarkRunner.Run<Benchmarker>();
+
+        var day = new Day04();
 
         Console.WriteLine($"Part 1: {day.PartOne()}");
         Console.WriteLine($"Part 2: {day.PartTwo()}");

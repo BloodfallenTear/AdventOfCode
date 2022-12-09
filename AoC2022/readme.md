@@ -7,3 +7,4 @@ My [Advent of Code](https://adventofcode.com/) solutions.
 |-----|------|-------|
 | 01 | [Calorie Counting](https://github.com/BloodfallenTear/AdventOfCode/tree/master/AoC2022/Day01) | :star: :star: |
 | 02 | [Rock Paper Scissors](https://github.com/BloodfallenTear/AdventOfCode/tree/master/AoC2022/Day02) | :star: :star: |
+| 04 | [Camp Cleanup](https://github.com/BloodfallenTear/AdventOfCode/tree/master/AoC2022/Day04) | :star: :star: |
